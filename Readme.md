@@ -38,7 +38,15 @@ I'm a MERN Stack developer from Bangladesh, passionate about building modern, us
 
 
 
+## 🍃 recent contributions
 
+<p >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
+  </picture>
+</p
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
