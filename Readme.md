@@ -1,4 +1,4 @@
-<img src="[url=https://ibb.co/5Xc1jSDd][img]https://i.ibb.co/5Xc1jSDd/Technology-Linked-In-Banner-in-Blue-White-and-Grey-Modern-Style.png[/img][/url]" alt="Profile Banner" width="100%" />
+<img src="https://i.ibb.co/RGHg6sn1/Technology-Linked-In-Banner-in-Blue-White-and-Grey-Modern-Style.png" alt="Profile Banner" width="100%" />
 # 💫 About Me:
 hello developer
 
