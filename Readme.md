@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/RGHg6sn1/Technology-Linked-In-Banner-in-Blue-White-and-Grey-Modern-Style.png" alt="Profile Banner" width="100%" />
-🧑‍💻 About Me <br>
+<h3>🧑‍💻 About Me</h3> <br>
 I'm a MERN Stack developer from Bangladesh, passionate about building modern, user-friendly web applications. I specialize in JavaScript and work extensively with technologies like React, Tailwind CSS, Firebase, and Vite to craft clean, responsive, and efficient interfaces. I enjoy tackling real-world challenges through code, continuously learning new tools and frameworks, and sharing useful projects and development tips with the community.
 
 
