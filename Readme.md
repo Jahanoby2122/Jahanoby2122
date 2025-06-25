@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/V6GJX8V8/banner.png" alt="Profile Banner" width="100%" />
 # 💫 About Me:
 hello developer
 
