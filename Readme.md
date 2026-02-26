@@ -56,36 +56,6 @@ I enjoy solving real-world problems with clean, efficient code and am actively c
 
 ---
 
-## 💻 Featured Projects
-
-### 🏆 E-Commerce Platform
-**Tech Stack:** React, Node.js, MongoDB, Express, JWT Authentication  
-- Developed a full-featured e-commerce platform with user authentication, product filtering, and payment integration
-- Implemented responsive design ensuring seamless experience across devices
-- **[Live Demo](https://yourecommerceapp.example.com)** | **[GitHub Repository](https://github.com/yourusername/ecommerce-app)**
-
-### 🏆 Task Management Application  
-**Tech Stack:** Next.js, Firebase, Tailwind CSS  
-- Created a real-time task management application with drag-and-drop functionality
-- Integrated Firebase for authentication and real-time database updates
-- **[Live Demo](https://yourtaskapp.example.com)** | **[GitHub Repository](https://github.com/yourusername/task-manager)**
-
-### 🏆 Portfolio Website  
-**Tech Stack:** React, Tailwind CSS, Framer Motion  
-- Designed and developed a responsive portfolio with dark/light mode toggle
-- Implemented smooth animations and optimized for performance
-- **[Live Demo](https://yourportfolio.example.com)** | **[GitHub Repository](https://github.com/yourusername/portfolio)**
-
----
-
-## 🌐 Open Source Contributions  
-
-- **Contributed to [Project Name]** – Implemented feature X and resolved critical bug Y improving performance by 30%
-- **Hacktoberfest 2024 Participant** – Successfully merged 5 pull requests in open source projects
-- **Community Mentor** – Active participant in developer communities, providing guidance to newcomers
-
----
-
 ## 📈 GitHub Analytics  
 
 
